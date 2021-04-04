@@ -1,0 +1,18 @@
+[
+    {
+        "trigger": {
+            "url-filter" : "ads-g.juicyads.com*"
+        },
+        "action": {
+            "type": "block"
+        }
+    },
+    {
+        "trigger": {
+            "url-filter" : "static.javhd.com*"
+        },
+        "action": {
+            "type": "block"
+        }
+    }
+]
